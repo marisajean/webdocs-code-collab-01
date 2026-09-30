@@ -1,4 +1,4 @@
-# cs1-wk02-codecollab
+# webdocs-code-collab-01
 
 This repository provides the **working program** for this week's **CodeCollab homework assignment**. 
 
